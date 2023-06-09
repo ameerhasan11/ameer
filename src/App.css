@@ -1,0 +1,319 @@
+*{
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.a{
+  background: grey;
+  width: 99%;
+  height: 150px;
+  border-radius: 20px;
+  position: absolute;
+}
+
+.r{
+  background: white;
+  width: 95%;
+  height: 80px;
+  border-radius: 20px;
+  margin-top: 20px;
+  position: relative;
+  margin-left: 45px;
+}
+
+body{
+  background: #000;
+}
+.p{
+  margin-top: 55px;
+  margin-left: 20px;
+  position: absolute;
+  color: red;
+}
+.b{
+  margin-top: 55px;
+  margin-left: 170px;
+  position: absolute;
+  color: red;
+}
+
+.l{
+  margin-top: 55px;
+  margin-left: 330px;
+  position: absolute;
+  color: red;
+}
+
+.m{
+    margin-top: 55px;
+    margin-left: 500px;
+    position: absolute;
+    color: red;
+}
+
+.n{
+  margin-top: 55px;
+  margin-left: 700px;
+  position: absolute;
+  color: green;
+}
+
+.f{
+  margin-top: 55px;
+  margin-left: 820px;
+  position: absolute;
+  color: green;
+}
+
+.v{
+  margin-top: 55px;
+  margin-left: 930px;
+  position: absolute;
+  color: green;
+}
+
+.q{
+  margin-top: 55px;
+  margin-left: 1050px;
+  position: absolute;
+  color: green;
+}
+
+.o{
+  margin-top: 55px;
+  margin-left: 1150px;
+  position: absolute;
+  color: green;
+}
+
+.c{
+  margin-top: 55px;
+  margin-left: 1250px;
+  position: absolute;
+  color: green;
+}
+
+.d{
+  margin-top: 55px;
+  margin-left: 1350px;
+  position: absolute;
+  color: green;
+}
+.e{
+  margin-top: 55px;
+  margin-left: 1450px;
+  position: absolute;
+  color: green;
+}
+
+.w{
+  background: grey;
+  width: 99%;
+  height: 250px;
+  border-radius: 20px;
+  margin-top: 190px;
+  position: absolute;
+}
+
+.x{
+  background: white;
+  width: 95%;
+  height: 100px;
+  border-radius: 20px;
+  margin-top: 10px;
+  position: relative;
+  margin-left: 45px;
+}
+
+.ss{
+  margin-top: 55px;
+  margin-left: 20px;
+  position: absolute;
+  color: red;
+}
+.sa{
+  margin-top: 55px;
+  margin-left: 150px;
+  position: absolute;
+  color: red;
+}
+
+.sb{
+  margin-top: 55px;
+  margin-left: 300px;
+  position: absolute;
+  color: green;
+}
+
+.sc{
+  margin-top: 55px;
+  margin-left: 450px;
+  position: absolute;
+  color: red;
+}  
+
+.sq{
+  margin-top: 55px;
+  margin-left: 20px;
+  position: absolute;
+  color: red;
+}
+
+.sn{
+  margin-top: 55px;
+  margin-left: 165px;
+  position: absolute;
+  color: green;
+}
+
+.sl{
+  margin-top: 55px;
+  margin-left: 300px;
+  position: absolute;
+  color: red;
+}
+
+.sh{
+  margin-top: 55px;
+  margin-left: 450px;
+  position: absolute;
+  color: red;
+}
+
+.sk{
+  margin-top: 55px;
+  margin-left: 600px;
+  position: absolute;
+  color: red;
+}
+
+.sf{
+  margin-top: 55px;
+  margin-left: 750px;
+  position: absolute;
+  color: red;
+}
+
+.s{
+  background: grey;
+  width: 99%;
+  height: 250px;
+  border-radius: 20px;
+  margin-top: 480px;
+  position: absolute;
+}
+
+.as{
+  margin-top: 55px;
+  margin-left: 20px;
+  position: absolute;
+  color: red;
+}
+
+.ac{
+  margin-top: 55px;
+  margin-left: 170px;
+  position: absolute;
+  color: red;
+}
+
+.ah{
+  margin-top: 55px;
+  margin-left: 340px;
+  position: absolute;
+  color: green;
+}
+
+.ad{
+  margin-top: 55px;
+  margin-left: 450px;
+  position: absolute;
+  color: red;
+}
+
+.aq{
+  margin-top: 55px;
+  margin-left: 650px;
+  position: absolute;
+  color: red;
+}
+
+.cx{
+  margin-top: 55px;
+  margin-left: 170px;
+  position: absolute;
+  color: red;
+}
+
+.cq{
+  margin-top: 55px;
+  margin-left: 340px;
+  position: absolute;
+  color: red;
+}
+
+.cv{
+  margin-top: 55px;
+  margin-left: 520px;
+  position: absolute;
+  color: green;
+}
+
+.cp{
+  margin-top: 55px;
+  margin-left: 670px;
+  position: absolute;
+  color: green;
+}
+
+.ff{
+  background-color: white;
+  width: 70px;
+  height: 20px;
+  margin-top: -23px;
+  margin-left: 20px;
+  border-radius: 30px;
+  padding: 5px;
+  position: absolute;
+}
+
+
+
+.we{
+  text-align: center;
+  background: #2c2c2c;
+  color: white;
+  width: 60px;
+  border-radius: 30px;
+  height: 20px;
+  margin-top: -20px;
+  margin-left: 800px;
+  padding: 3px;
+position: absolute;
+}
+
+.wd{
+  text-align: center;
+  background: #2c2c2c;
+  color: white;
+  width: 130px;
+  border-radius: 30px;
+  height: 20px;
+  margin-top: -20px;
+  margin-left: 769px;
+  padding: 3px;
+  position: absolute;
+}
+
+
+.wb{
+  text-align: center;
+  background: #2c2c2c;
+  color: white;
+  width: 130px;
+  border-radius: 30px;
+  height: 20px;
+  margin-top: -20px;
+  margin-left: 766px;
+  padding: 3px;
+  position: absolute;
+}
